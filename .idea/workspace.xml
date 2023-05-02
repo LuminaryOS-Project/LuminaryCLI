@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16a1343c-e99f-46f5-9464-038508cbf6d9" name="Changes" comment="">
-      <change afterPath="L:/LuminaryCLI/.gitignore" afterDir="false" />
-      <change afterPath="L:/LuminaryCLI/.idea/.gitignore" afterDir="false" />
-      <change afterPath="L:/LuminaryCLI/.idea/discord.xml" afterDir="false" />
-      <change afterPath="L:/LuminaryCLI/.idea/misc.xml" afterDir="false" />
-      <change afterPath="L:/LuminaryCLI/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="L:/LuminaryCLI/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="L:/LuminaryCLI/pom.xml" afterDir="false" />
-      <change afterPath="L:/LuminaryCLI/src/main/java/com/luminaryos/cli/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="16a1343c-e99f-46f5-9464-038508cbf6d9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683054797706</updated>
       <workItem from="1683054798491" duration="29000" />
-      <workItem from="1683054846366" duration="3633000" />
+      <workItem from="1683054846366" duration="4127000" />
     </task>
     <servers />
   </component>
